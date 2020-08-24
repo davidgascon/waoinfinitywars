@@ -7,3 +7,5 @@ press r to run the script and hold q to pause the sciprt. I recommend pressing r
 Press C to change the run time and pause times.
 
 My best score when I tested it was a .001 run time and a 1 second pause time.
+
+Imports are pyautogui, time, random and keyboard
